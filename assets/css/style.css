@@ -54,3 +54,20 @@ header {
 .active{
     border-bottom: 1px solid #3a3a3a;
 }
+
+/** What are Fairies **/
+
+#left-image {
+    float: left;
+    margin-right: 10px;
+}
+
+#right-image {
+    float: right;
+    margin-left: 10px;
+}
+
+#about-fairy {
+    margin-right: 10px;
+    margin-left: 10px;
+}
