@@ -111,3 +111,16 @@ footer{
     padding: 5%;
     color: #c164d8;
 }
+
+/* Gallery Photos */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photos img{
+    width: 100%;
+}
