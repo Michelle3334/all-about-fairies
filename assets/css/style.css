@@ -7,8 +7,50 @@ body {
     color: #2c2c44;
 }
 
-/** headings and logo **/
+/** headings **/
 
 h1, h2 {
     font-family: Playball, sans-serif;
+}
+
+/** heading **/
+
+header {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#logo {
+    float: left;
+}
+
+#title {
+    font-size: xxx-large;
+    color: #c164d8;
+    text-align: center;
+}
+
+#menu {
+    float: right;
+}
+
+/** menu navigation links **/
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #c164D8;
+}
+
+.active{
+    border-bottom: 1px solid #3a3a3a;
 }
