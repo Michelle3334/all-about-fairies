@@ -199,8 +199,8 @@ footer{
     display: block;
 }
 
-/* For small screen sizes from 800px wide and down */
-@media screen and (max-width: 800px){
+/* For small screen sizes from 850px wide and down */
+@media screen and (max-width: 850px){
 
     body {
         margin: 5px;
@@ -240,5 +240,11 @@ footer{
 
     #photos{
         column-count: 2;
+    }
+
+    #video > iframe {
+        margin: 0 auto;
+        width: 365px;
+        height: 319px;
     }
 }
