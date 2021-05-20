@@ -198,3 +198,43 @@ footer{
     background-color: #c164d8;
     display: block;
 }
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+
+    body {
+        margin: 5px;
+    }
+
+    #banner {
+        margin: 0px auto;
+        padding-bottom: 5%;
+    }
+
+    #logo{
+        width: 20px;
+        height: 20px;
+    }
+
+    #menu {
+        font-size: xx-small;
+        width: 150px
+    }
+
+    #title {
+        font-size: larger;
+        text-align: right;
+    }
+
+    #fairy-about {
+        width:90%;
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    #left-image, #right-image{
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
