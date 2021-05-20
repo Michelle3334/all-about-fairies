@@ -199,8 +199,8 @@ footer{
     display: block;
 }
 
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px){
+/* For small screen sizes from 800px wide and down */
+@media screen and (max-width: 800px){
 
     body {
         margin: 5px;
@@ -236,5 +236,9 @@ footer{
         float: none;
         text-align: center;
         margin: 0 auto;
+    }
+
+    #photos{
+        column-count: 2;
     }
 }
