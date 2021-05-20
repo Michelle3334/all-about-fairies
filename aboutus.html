@@ -31,26 +31,27 @@
             <h1 id="title">All about Fairies</h1>
         </div>
     </header>
-    <section id="about-us">
-        <div id="">
+    <section>
+        <div id="about-us">
             <h2>About Us</h2>
             <p>Hi there!</p>
             <p>We hope that you enjoyed your visit to our website – because we are delighted to share it with you!</p>
             <p>If you fancy getting in touch with us please do so! We can’t wait to hear from you.</p>
             <p>If you want to know more information, share a fact with us, get involved, recommend a topic, or correct a factual error, just send us a message using the form below and we’ll get back to you as soon as we can!</p>
         </div>
-        <fieldset>
-            <legend>Contact Us</legend>
-            <label for="fname">First Name</label>
-            <input type="text" placeholder="First Name" id="fname" required>
-            <label for="lname">Last Name</label>
-            <input type="text" placeholder="Last Name" id="lname" required>
-            <label for="email">Email Address</label>
-            <input type="email" placeholder="Email Address" id="email" required>
-            <label for="comment">Comment or Message</label>
-            <input type="text" placeholder="Type your comments or suggestions here" id="comment">
-            <button type="submit" value="Send!" required>Submit</button>
-        </fieldset>
+        <form action="#" method="get">
+            <fieldset id="contact">
+                <legend>Contact Us</legend>
+                <label for="fname">First Name</label>
+                <input class="text-input" type="text" placeholder="First Name" id="fname" required>
+                <label for="lname">Last Name</label>
+                <input class="text-input" type="text" placeholder="Last Name" id="lname" required>
+                <label for="email">Email Address</label>
+                <input class="text-input" type="email" placeholder="Email Address" id="email" required>
+                <textarea class="comment" required placeholder="Add your comment here"></textarea>
+                <input id="submit-button" type="submit" value="Submit">
+            </fieldset>
+        </form>
     </section>
     <footer>
         <ul class="social-networks">
