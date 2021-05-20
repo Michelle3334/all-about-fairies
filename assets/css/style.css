@@ -175,3 +175,26 @@ footer{
     background-color: #c164d8;
     display: block;
 }
+
+
+/** Survey page **/
+
+#video {
+    text-align: center;
+}
+
+#survey {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#survey-submit {
+    margin: 20px auto;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: medium;
+    background-color: #c164d8;
+    display: block;
+}
