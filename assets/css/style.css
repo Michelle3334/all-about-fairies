@@ -248,3 +248,34 @@ footer{
         height: 319px;
     }
 }
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+    #title {
+        font-size: x-large;
+        text-align: center;
+    }
+
+    #left-image, #right-image{
+        float: none;
+        margin: 0 auto;
+        padding-top: 15px;
+    }
+
+    #left-image {
+       text-align: center;
+       margin-right: 240px;
+    }
+
+    #right-image {
+        text-align: center;
+    }
+
+    #photos{
+        column-count: 3;
+    }
+
+    #video {
+        padding-top: 50px;
+    }
+}
