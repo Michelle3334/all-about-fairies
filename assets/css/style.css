@@ -25,7 +25,7 @@ header {
 }
 
 #title {
-    font-size: 48px;
+    font-size: xx-large;
     color: #c164d8;
     text-align: center;
 }
@@ -199,6 +199,8 @@ footer{
     display: block;
 }
 
+/** Media Queries **/
+
 /* For small screen sizes from 850px wide and down */
 @media screen and (max-width: 850px){
 
@@ -279,8 +281,8 @@ footer{
     }
 }
 
-/* For large to medium screens sizes from 1150px wide and down */
-@media screen and (max-width: 1150px) {
+/* For large to medium screens sizes from 1300px wide and down */
+@media screen and (max-width: 1300px) {
     #title {
         text-align: center;
     }
