@@ -50,17 +50,17 @@ All about Fairies is a site that provides information and interesting facts abou
 ## Wireframes
 
 * Home page
-<img src="/assets/images/readme-images/home-wire.png">
+<img src="/assets/images/readme-images/home-wire.png" width=200 height=200>
 * Gallery
-<img src="/assets/images/readme-images/gallery-wire.png">
+<img src="/assets/images/readme-images/gallery-wire.png" width=200 height=200>
 * About Us
-<img src="/assets/images/readme-images/aboutus-wire.png"> 
+<img src="/assets/images/readme-images/aboutus-wire.png" width=200 height=200> 
 * Survey
-<img src="assets/images/readme-images/survey-wire.png"> 
+<img src="assets/images/readme-images/survey-wire.png" width=200 height=200> 
 * Home page mobile view
-<img src="/assets/images/readme-images/home-mobileview.png"> 
+<img src="/assets/images/readme-images/home-mobileview.png" width=200 height=200> 
 * Gallery mobile view
-<img src="/assets/images/readme-images/gallery-wire-mobileview.png"> 
+<img src="/assets/images/readme-images/gallery-wire-mobileview.png" width=200 height=200> 
 
 ## Testing
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
