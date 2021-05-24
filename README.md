@@ -1,59 +1,105 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# All about Fairies
 
-Welcome Michelle3334,
+/** Add link to website **/
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+All about Fairies is a site that provides information and interesting facts about Fairies. The site is targeted at users that are interested in fairies and also those that might be sceptical and want to find out more.
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
+* Navigation Bar
+   * Featured on all four pages is a fully responsive navigation bar that has links to the Home Page, Gallery and About us pages.
+   * It is identical on each page and allows the user to move from each page without using the 'back' button on the browser.
 
-`python3 -m http.server`
+* What are fairies
+   * This section has two eye-catching images and has information explaining what a fairy is.
 
-A blue button should appear to click: _Make Public_,
+* History, Interesting facts and Survey
+   * The history section provides some interesting information about the history of fairies.
+   * The interesting facts section has some fun and strange facts.
+   * The survey link takes the user to a survey with a video of a fairy caught on camera, the link opens in a new tab.
 
-Another blue button should appear to click: _Open Browser_.
+* Footer
+   * The footer section contains links to various social media sites.
+   * The links open in a new tab so the user does not have to navigate back to the About Fairies website.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* Gallery
+   * The gallery provides the user with some interesting and different pictures of fairies and their habitat.
+   * There are a combination of real and fictional images to keep the users guessing as to whether Fairies are real or not.
 
-A blue button should appear to click: _Make Public_,
+* About Us
+   * This page invites the user to submit comments or suggestions to help improve the website.
 
-Another blue button should appear to click: _Open Browser_.
+* Survey page
+   * This page has an interesting video of a supposed fairy caught on camera and asks the user if they believe in fairies. This section helps make the website interactive and provides an element of fun.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Wireframes
+***
+* Home page - 
+* Gallery - 
+* About Us - 
+* Survey -
+* Home page mobile view -
+* Gallery mobile view -
 
-To log into the Heroku toolbelt CLI:
+## Testing
+* The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+Link to CSS validation:
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+Screenshots of html validation:
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+* The website was tested continously during the development process as each new piece of code was written. 
 
-## Updates Since The Instructional Video
+### Further Testing
+* The website was tested on Google Chrome.
+* The website was viewed on a variety of device sizes such as Desktop, Samsung S10 and Samsung tablet, I used the responsive function when inspecting the pages to view various sizes. 
+* All links were tested multiple times during the development process to ensure that all pages were linked correctly.
+* Family members were asked to view the site and point out any bugs.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Deployment
+GitHub Pages
+The project was deployed to GitHub Pages using the following steps:
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+## Credits
+***
+### Code
+* All code was written by the developer, referring occasionally to the relevant modules in HTML and CSS essentials.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Content
+* Content was obtained from the below sources and adapted by the developer.
+    * https://en.wikipedia.org/wiki/Fairy
+    * https://everyfactever.com/50-facts-about-fairies/
+* The colour contrast for the background and title was checked using https://webaim.org/resources/contrastchecker/.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Media
+* Media was obtained from the below sources.
+    * All images were obtained from pixabay.com.
+    * The video on the survey page was imbedded from Youtube.com.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Frameworks, Libraries and Programs:
+1.  Git
+    * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+2. Github
+    * GitHub is used to store the projects code after being pushed from Git.
+3. Google Fonts
+    * Google Fonts was used to import Playball and Roboto to the style.css for use throughout the website.
+4. Font Awesome
+    * Font Awesome was used on the Home page to add icons for design and UX purposes.
+5. Balsamiq
+    * Balsamiq was used to create the wireframes during the design process.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+### Acknowledgements
+* My mentor for advice.
+* My family for their endless support and feedback.
