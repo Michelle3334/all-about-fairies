@@ -51,25 +51,32 @@ All about Fairies is a site that provides information and interesting facts abou
 
 * Home page
 <img src="/assets/images/readme-images/home-wire.png" width=200 height=200>
+
 * Gallery
 <img src="/assets/images/readme-images/gallery-wire.png" width=200 height=200>
+
 * About Us
-<img src="/assets/images/readme-images/aboutus-wire.png" width=200 height=200> 
+<img src="/assets/images/readme-images/aboutus-wire.png" width=200 height=200>
+
 * Survey
-<img src="assets/images/readme-images/survey-wire.png" width=200 height=200> 
+<img src="assets/images/readme-images/survey-wire.png" width=200 height=200>
+
 * Home page mobile view
-<img src="/assets/images/readme-images/home-mobileview.png" width=200 height=200> 
+<img src="/assets/images/readme-images/home-mobileview.png" width=200 height=200>
+
 * Gallery mobile view
-<img src="/assets/images/readme-images/gallery-wire-mobileview.png" width=200 height=200> 
+<img src="/assets/images/readme-images/gallery-wire-mobileview.png" width=200 height=200>
 
 ## Testing
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-Screenshot of css validation
+    * Screenshot of css validation <img src="/assets/images/readme-images/css-validation.PNG">
 
-
-Screenshots of html validation:
-
+    * Screenshots of html validation
+        * Index.html <img src="/assets/images/readme-images/index-html-validation.PNG">
+        * Gallery.html <img src="/assets/images/readme-images/gallery-html-validation.PNG">
+        * AboutUs.html <img src="/assets/images/readme-images/aboutus-html-validation.PNG">
+        * Survey.html <img src="assets/images/readme-images/survey-html-validation.PNG">
 
 * The website was tested continously during the development process as each new piece of code was written. 
 
@@ -78,6 +85,9 @@ Screenshots of html validation:
 * The website was viewed on a variety of device sizes such as Desktop, Samsung S10 and Samsung tablet, I used the responsive function when inspecting the pages to view various sizes. 
 * All links were tested multiple times during the development process to ensure that all pages were linked correctly.
 * Family members were asked to view the site and point out any bugs.
+
+### Known Bugs
+* There are two errors on the gallery.html and survery.html - I chose not to add headings to these sections as I felt the look of the page did not require any headings.
 
 ## Deployment
 GitHub Pages
