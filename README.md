@@ -48,7 +48,7 @@ All about Fairies is a site that provides information and interesting facts abou
 <img src="/assets/images/readme-images/survey.PNG">
 
 ## Wireframes
-***
+
 * Home page - 
 * Gallery - 
 * About Us - 
@@ -85,7 +85,7 @@ The project was deployed to GitHub Pages using the following steps:
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 ## Credits
-***
+
 ### Code
 * All code was written by the developer, referring occasionally to the relevant modules in HTML and CSS essentials.
 
