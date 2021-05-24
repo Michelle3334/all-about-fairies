@@ -1,7 +1,5 @@
 # All about Fairies
 
-/** Add link to website **/
-
 All about Fairies is a site that provides information and interesting facts about Fairies. The site is targeted at users that are interested in fairies and also those that might be sceptical and want to find out more.
 
 ## Features
@@ -90,15 +88,14 @@ All about Fairies is a site that provides information and interesting facts abou
 * There are two errors on the gallery.html and survery.html - I chose not to add headings to these sections as I felt the look of the page did not require any headings.
 
 ## Deployment
-GitHub Pages
 The project was deployed to GitHub Pages using the following steps:
 
-1. Log in to GitHub and locate the GitHub Repository
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+1. Log in to GitHub and locate the GitHub Repository.
+2. At the top of the Repository, click on the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch" and click on save.
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+6. The now published site link shows at the top of the page.
 
 ## Credits
 
