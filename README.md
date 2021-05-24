@@ -97,6 +97,8 @@ The project was deployed to GitHub Pages using the following steps:
 5. The page will automatically refresh.
 6. The now published site link shows at the top of the page.
 
+The live link can be found here: https://michelle3334.github.io/portfolio-one/
+
 ## Credits
 
 ### Code
