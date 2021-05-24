@@ -9,71 +9,75 @@ All about Fairies is a site that provides information and interesting facts abou
    * Featured on all four pages is a fully responsive navigation bar that has links to the Home Page, Gallery and About us pages.
    * It is identical on each page and allows the user to move from each page without using the 'back' button on the browser.
 
-<img src="/assets/images/readme-images/navigation-bar.PNG"> 
+<img src="assets/images/readme-images/navigation-bar.PNG"> 
 
 * What are fairies
    * This section has two eye-catching images and has information explaining what a fairy is.
 
-<img src="/assets/images/readme-images/what-are-fairies.PNG">
+<img src="assets/images/readme-images/what-are-fairies.PNG">
 
 * History, Interesting facts and Survey
    * The history section provides some interesting information about the history of fairies.
    * The interesting facts section has some fun and strange facts.
    * The survey link takes the user to a survey with a video of a fairy caught on camera, the link opens in a new tab.
 
-<img src="/assets/images/readme-images/history-facts-survey.PNG">   
+<img src="assets/images/readme-images/history-facts-survey.PNG">   
 
 * Footer
    * The footer section contains links to various social media sites.
    * The links open in a new tab so the user does not have to navigate back to the About Fairies website.
 
-<img src="/assets/images/readme-images/footer.PNG">
+<img src="assets/images/readme-images/footer.PNG">
 
 * Gallery
    * The gallery provides the user with some interesting and different pictures of fairies and their habitat.
    * There are a combination of real and fictional images to keep the users guessing as to whether Fairies are real or not.
 
-<img src="/assets/images/readme-images/gallery.PNG">
+<img src="assets/images/readme-images/gallery.PNG">
 
 * About Us
    * This page invites the user to submit comments or suggestions to help improve the website.
 
-<img src="/assets/images/readme-images/about-us.PNG">
+<img src="assets/images/readme-images/about-us.PNG">
 
 * Survey page
    * This page has an interesting video of a supposed fairy caught on camera and asks the user if they believe in fairies. This section helps make the website interactive and provides an element of fun.
 
-<img src="/assets/images/readme-images/survey.PNG">
+<img src="assets/images/readme-images/survey.PNG">
 
 ## Wireframes
 
 * Home page
-<img src="/assets/images/readme-images/home-wire.png" width=200 height=200>
+<img src="assets/images/readme-images/home-wire.png" width=200 height=200>
 
 * Gallery
-<img src="/assets/images/readme-images/gallery-wire.png" width=200 height=200>
+<img src="assets/images/readme-images/gallery-wire.png" width=200 height=200>
 
 * About Us
-<img src="/assets/images/readme-images/aboutus-wire.png" width=200 height=200>
+<img src="assets/images/readme-images/aboutus-wire.png" width=200 height=200>
 
 * Survey
 <img src="assets/images/readme-images/survey-wire.png" width=200 height=200>
 
 * Home page mobile view
-<img src="/assets/images/readme-images/home-mobileview.png" width=200 height=200>
+<img src="assets/images/readme-images/home-mobileview.png" width=200 height=200>
 
 * Gallery mobile view
-<img src="/assets/images/readme-images/gallery-wire-mobileview.png" width=200 height=200>
+<img src="assets/images/readme-images/gallery-wire-mobileview.png" width=200 height=200>
+
+## Features left to implement
+
+* Make the gallery page interactive so when you scroll over the pictures they change slightly (either zoom in or rotate).
 
 ## Testing
 * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-    * Screenshot of css validation <img src="/assets/images/readme-images/css-validation.PNG">
+    * Screenshot of css validation <img src="assets/images/readme-images/css-validation.PNG">
 
     * Screenshots of html validation
-        * Index.html <img src="/assets/images/readme-images/index-html-validation.PNG">
-        * Gallery.html <img src="/assets/images/readme-images/gallery-html-validation.PNG">
-        * AboutUs.html <img src="/assets/images/readme-images/aboutus-html-validation.PNG">
+        * Index.html <img src="assets/images/readme-images/index-html-validation.PNG">
+        * Gallery.html <img src="assets/images/readme-images/gallery-html-validation.PNG">
+        * AboutUs.html <img src="assets/images/readme-images/aboutus-html-validation.PNG">
         * Survey.html <img src="assets/images/readme-images/survey-html-validation.PNG">
 
 * The website was tested continously during the development process as each new piece of code was written. 
