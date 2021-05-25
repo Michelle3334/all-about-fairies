@@ -1,5 +1,8 @@
 # All about Fairies
 
+## User-Centric Frontend Development Milestone Project
+<img src="assets/images/readme-images/responsive.PNG">
+
 All about Fairies is a site that provides information and interesting facts about Fairies. The site is targeted at users that are interested in fairies and also those that might be sceptical and want to find out more.
 
 ## Features
