@@ -176,7 +176,6 @@ footer{
     display: block;
 }
 
-
 /** Survey page **/
 
 #video {
@@ -228,10 +227,25 @@ footer{
         text-align: right;
     }
 
-    #fairy-about {
+    #about-fairy {
         width:90%;
         height: 100%;
         margin: 0 auto;
+        text-align: left;
+    }
+
+    #history {
+        width:90%;
+        height: 100%;
+        margin: 0 auto;
+        text-align: left;
+    }
+
+    #facts {
+        width:90%;
+        height: 100%;
+        margin: 0 auto;
+        text-align: left;
     }
 
     #left-image, #right-image{
