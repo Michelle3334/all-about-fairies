@@ -254,10 +254,6 @@ footer{
         margin: 0 auto;
     }
 
-    #photos{
-        column-count: 2;
-    }
-
     #video > iframe {
         margin: 0 auto;
         width: 365px;
@@ -287,7 +283,7 @@ footer{
     }
 
     #photos{
-        column-count: 3;
+        column-count: 1;
     }
 
     #video {
